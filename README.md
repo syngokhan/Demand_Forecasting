@@ -34,7 +34,8 @@
 
 ▪ Rolling Mean Features
 
-▪ Exponentially Weighted Mean Features ▪ Custom Cost Function
-(SMAPE)
+▪ Exponentially Weighted Mean Features 
+
+▪ Custom Cost Function (SMAPE)
 
 ▪ Model Validation with LightGBM
